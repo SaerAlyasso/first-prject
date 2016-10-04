@@ -1,2 +1,0 @@
-After the first commit, i add this line
-after the second commit, i add second line
